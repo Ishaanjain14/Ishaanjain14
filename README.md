@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ishaan</h1>
 <h3 align="center">A Passionate Full-Stack Developer, and Problem Solver</h3>
 
-<h3 align="center" style="color: #0E9CF7;">Exploring Web3 and blockchain development</h3>
+<h3 align="center" style="color: #0E9CF7;">Exploring Machine Learning and Web3</h3>
 
 - 📫 Reach me at **jainishaan987@gmail.com**
 
