@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/gurshaandult" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="gurshaandult" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gurshaan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurshaan17" height="30" width="40" /></a>
+<a href="https://x.com/ishaanjain1412" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="Ishaan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishaan--jain14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ishaan" height="30" width="40" /></a>
 </p>
 
 <h3>Languages</h3>
